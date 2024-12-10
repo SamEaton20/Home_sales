@@ -1,4 +1,6 @@
 # Home_sales
+Determine key metrics about home sales data to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+# Steps taken
 Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
 Import the necessary PySpark SQL functions for this assignment.
